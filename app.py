@@ -8,6 +8,7 @@ import joblib
 st.set_page_config(page_title="Musk Molecule Classifier", page_icon="🧪", layout="centered")
 
 st.title("🧪 Musk Molecule Classifier")
+st.caption("Made by Noureldin Bassem — AI & Computer Engineer")
 
 # ---------------------------------------------------------------
 # Load the single saved pipeline, then pull out just the classifier step.
